@@ -1,0 +1,7 @@
+====================
+======= TODO =======
+====================
+
+- Handle duplicate mons, check if user has selected mon in database, if they do, update the count variable on the existed mon connection in database.
+- Fix timer, should display hours, minutes, and seconds.
+- Get the bot onto a cloud platform.
