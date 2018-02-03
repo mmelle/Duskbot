@@ -2,6 +2,8 @@
 ======= TODO =======
 ====================
 
-- Handle duplicate mons, check if user has selected mon in database, if they do, update the count variable on the existed mon connection in database.
+- Handle duplicate pokémon, check if user has selected pokémon in database, if they do, update the count variable on the existed pokémon connection in database.
 - Fix timer, should display hours, minutes, and seconds.
+- Add some silly fun commands.
+- Add ability to trade pokémon
 - Get the bot onto a cloud platform.
