@@ -6,6 +6,16 @@
 - Handle duplicate pokémon, check if user has selected pokémon in database, if they do, 
   update the count variable on the existed pokémon connection in database. 
 - Fix timer, should display hours, minutes, and seconds.
+- Implement rarity system. Planned 6 star system.
+- - 1. Crap (Rattata, Bidoof, Magikarp, etc.)
+- - 2. Evolved crap / Starters (Raticate, Squirtle, etc.)
+- - 3. Starters 2 / No evoluion
+- - 4. Stronger stuff
+- - 5. Legends (low end) / pseudo
+- - 6. Legends (high end)
+- Add levels, + train command.
+- Add evolve items.
+- Add happiness + pet command.
 - Add pokéballs to catch message.
 - Add some silly fun commands.
 - Add ability to trade pokémon.
