@@ -2,11 +2,9 @@
 ======= TODO =======
 ====================
 
-- Fix case sensitivity
 - Handle duplicate pokémon, check if user has selected pokémon in database, if they do, 
   update the count variable on the existed pokémon connection in database. 
 - Fix timer, should display hours, minutes, and seconds.
-fix party
 - d.party -> sort on rarity
 - Add levels, + train command.
 - Add evolve items.
