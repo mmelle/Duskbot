@@ -1,18 +1,18 @@
 Pokemon item {
-  "name": "Kirlia", //Specimen name
-  "id": 281, //Specimen id
-  "type1": "Psychic", //Primary type
-  "type2": "Fairy", //Secondary type
-  "evolution": { //Evolutions
-    "evolves_to": { //Evolution #1
-      "id": 282, //Evolves into specimen with this is
-      "level": 30, //Required level
-      "friendship": 0, //Required friendship
-      "item": null, //Required item
-      "time": null, //Required time, "Day", "Night" or "Dusk"
-      "trade": 0 //Required trade
+  "name": "Kirlia",
+  "id": 281,
+  "type1": "Psychic",
+  "type2": "Fairy",
+  "evolution": {
+    "evolves_to": {
+      "id": 282, 
+      "level": 30,
+      "friendship": 0, 
+      "item": null,
+      "time": null, 
+      "trade": 0 
     },
-    "evolves_to": { //Evolution #2
+    "evolves_to": { 
       "id": 475,
       "level": 0,
       "friendship": 0,
@@ -23,7 +23,6 @@ Pokemon item {
   }
 }
 
-//Tentative
 Rarity levels {
   "1": "2-10",
   "2": "5-20",
